@@ -1,0 +1,6 @@
+intervention,reach_per_quarter,impact,confidence,effort_person_months,rice_score,rationale
+Tighten model threshold,200000,1.5,0.90,1.0,270000,"Fastest measurable loss reduction; requires experiment and CX guardrail"
+Add velocity and device graph features,200000,2.0,0.75,3.0,100000,"Improves coordinated-fraud detection but needs real-time feature infrastructure"
+Manual review for borderline scores,12000,2.0,0.80,2.0,9600,"Captures ambiguous high-dollar cases; constrained by analyst capacity"
+Segment-specific step-up authentication,45000,1.5,0.70,2.5,18900,"Targets risky routes with less broad customer friction"
+Chargeback label maturation pipeline,200000,1.0,0.95,2.0,95000,"Improves calibration and prevents premature evaluation"

@@ -1,0 +1,46 @@
+{
+  "split": {
+    "train_rows": 149744,
+    "validation_rows": 16942,
+    "test_rows": 33314,
+    "train_end": "2025-09-30 23:58:17+00:00",
+    "test_start": "2025-11-01 00:00:16+00:00",
+    "test_fraud_rate": 0.030677793120009605
+  },
+  "models": {
+    "logistic_regression": {
+      "roc_auc": 0.626630304489149,
+      "pr_auc": 0.0586395271524063,
+      "precision_at_0_5": 0.0,
+      "recall_at_0_5": 0.0,
+      "brier_score": 0.02947703434209346,
+      "confusion_matrix": [
+        [
+          32292,
+          0
+        ],
+        [
+          1022,
+          0
+        ]
+      ]
+    },
+    "gradient_boosting": {
+      "roc_auc": 0.6228247355406378,
+      "pr_auc": 0.06135785312918189,
+      "precision_at_0_5": 0.0,
+      "recall_at_0_5": 0.0,
+      "brier_score": 0.02944176518304115,
+      "confusion_matrix": [
+        [
+          32292,
+          0
+        ],
+        [
+          1022,
+          0
+        ]
+      ]
+    }
+  }
+}

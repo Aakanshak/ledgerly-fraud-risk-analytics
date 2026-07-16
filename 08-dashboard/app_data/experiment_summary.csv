@@ -1,0 +1,3 @@
+group,transactions,fraud_transactions,fraud_loss,fraud_loss_per_transaction,false_declines,false_decline_rate
+control,80032,2439,287236.14,3.589016143542583,0,0.0
+test,19910,627,68994.13,3.46530035158212,309,0.016024477519058236

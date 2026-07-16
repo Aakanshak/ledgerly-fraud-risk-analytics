@@ -1,0 +1,16 @@
+{
+  "model": "gradient_boosting",
+  "current_threshold": 0.5,
+  "optimal_threshold": 0.101,
+  "max_false_decline_rate": 0.02,
+  "current_total_cost": 120703.56,
+  "optimal_total_cost": 115802.20500999999,
+  "test_period_savings": 4901.354990000007,
+  "annualized_savings": 29408.129940000043,
+  "optimal_false_decline_rate": 0.016784342871299394,
+  "optimal_recall": 0.07729941291585127,
+  "optimal_precision": 0.12721417069243157,
+  "fraud_dollars_blocked": 10624.01000000001,
+  "legitimate_customer_cost": 5722.6550099999995,
+  "residual_fraud_loss": 110079.54999999999
+}

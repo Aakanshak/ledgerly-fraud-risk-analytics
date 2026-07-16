@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "group": "control",
+      "transactions": 80032,
+      "fraud_transactions": 2439,
+      "fraud_loss": 287236.14,
+      "fraud_loss_per_transaction": 3.589016143542583,
+      "false_declines": 0,
+      "false_decline_rate": 0.0
+    },
+    {
+      "group": "test",
+      "transactions": 19910,
+      "fraud_transactions": 627,
+      "fraud_loss": 68994.13,
+      "fraud_loss_per_transaction": 3.46530035158212,
+      "false_declines": 309,
+      "false_decline_rate": 0.016024477519058236
+    }
+  ],
+  "fraud_loss_rate_change": -0.03447067023731687,
+  "incremental_false_decline_rate": 0.016024477519058236,
+  "false_decline_z": 35.3180681526117,
+  "false_decline_p_value": 3.1011569479426146e-273,
+  "model_predicted_test_period_savings": 4901.354990000007
+}

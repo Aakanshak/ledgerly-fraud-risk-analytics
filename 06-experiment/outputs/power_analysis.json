@@ -1,0 +1,10 @@
+{
+  "sample_size_per_group": 20424,
+  "total_balanced_sample": 40848,
+  "assumed_baseline_fraud_rate": 0.0307,
+  "minimum_detectable_relative_reduction": 0.15,
+  "alpha": 0.05,
+  "power": 0.8,
+  "estimated_days_at_20pct_test": 19,
+  "recommended_duration_days": 28
+}

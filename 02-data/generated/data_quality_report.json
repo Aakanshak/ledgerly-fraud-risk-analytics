@@ -1,0 +1,11 @@
+{
+  "transactions":200000.0,
+  "users":43215.0,
+  "fraud_count":5293.0,
+  "fraud_rate":0.026465,
+  "legitimate_accuracy_baseline":0.973535,
+  "fraud_median_tx_per_hour":1.0,
+  "legit_median_tx_per_hour":1.0,
+  "fraud_median_amount":56.46,
+  "legit_median_amount":51.46
+}
