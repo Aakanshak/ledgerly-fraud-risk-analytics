@@ -7,7 +7,7 @@ Portfolio-grade risk analytics capstone translating fraud probabilities into an 
 ## Project links
 
 - [GitHub repository](https://github.com/Aakanshak/ledgerly-fraud-risk-analytics)
-- Streamlit dashboard: deployment pending Community Cloud authorization
+- Streamlit dashboard: https://ledgerly-fraud-risk-analytics-arwfq6uldkb3fy2baiz6b3.streamlit.app/
 
 ## Business problem
 
